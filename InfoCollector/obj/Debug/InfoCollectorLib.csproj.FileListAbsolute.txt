@@ -1,0 +1,6 @@
+D:\bsuir\5sem\spp\AssemblyBrowser\InfoCollector\bin\Debug\InfoCollector.dll
+D:\bsuir\5sem\spp\AssemblyBrowser\InfoCollector\bin\Debug\InfoCollector.pdb
+D:\bsuir\5sem\spp\AssemblyBrowser\InfoCollector\obj\Debug\InfoCollectorLib.csproj.CoreCompileInputs.cache
+D:\bsuir\5sem\spp\AssemblyBrowser\InfoCollector\obj\Debug\InfoCollector.dll
+D:\bsuir\5sem\spp\AssemblyBrowser\InfoCollector\obj\Debug\InfoCollector.pdb
+D:\bsuir\5sem\spp\AssemblyBrowser\InfoCollector\obj\Debug\InfoCollectorLib.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\bsuir\5sem\spp\AssemblyBrowser\ShapesLib\bin\Debug\ShapesLib.dll
+D:\bsuir\5sem\spp\AssemblyBrowser\ShapesLib\bin\Debug\ShapesLib.pdb
+D:\bsuir\5sem\spp\AssemblyBrowser\ShapesLib\obj\Debug\ShapesLib.csproj.CoreCompileInputs.cache
+D:\bsuir\5sem\spp\AssemblyBrowser\ShapesLib\obj\Debug\ShapesLib.dll
+D:\bsuir\5sem\spp\AssemblyBrowser\ShapesLib\obj\Debug\ShapesLib.pdb
